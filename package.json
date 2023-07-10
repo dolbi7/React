@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-next-app": "^13.4.9",
+    "g": "^2.0.1",
+    "react-router-dom": "^6.13.0",
+    "styled-components": "^6.0.0-rc.5"
+  }
+}
